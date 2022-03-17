@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "374c6e10b229abc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e1e19e696b23058",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49375a2be1156bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b88ce4c017069c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f315ceed29be3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "efa9bfde6ef189ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f21e4cd236f7b22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4169ca7749c79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f875ba7fa84a448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e1e19e696b23058",
+  "lastOpenFiles": [
+    "UNIP/PIM VII - DP/O Trabalho.md",
+    "UNIP/PIM VII - DP/Material didático.md",
+    "UNIP/PIM VII - DP/Leitura da documentação.md",
+    "UNIP/PIM VII - DP/Tarefas.md",
+    "UNIP/PIM VII - DP/PIM VII.md",
+    "UNIP/PIM VII - DP/Trabálho da Paula.md",
+    "Desenvolvimento/Descrição de Cargo.md"
+  ]
+}
